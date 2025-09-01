@@ -1,2 +1,2 @@
 # aws-cloud-labs
-Documenting AWS Solutions Architect Associate labs and cloud practice projects.
+This repository contains hands-on labs and projects I completed while preparing for the **AWS Solutions Architect – Associate** certification.
